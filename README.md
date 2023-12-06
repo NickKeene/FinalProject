@@ -25,3 +25,10 @@ Click the [link](UDP.md) here for more info
 
 ### IP:
 Click the [link](IP.md) here for more info
+
+## More Helpful Content 
+### Below are links to videos for better understanding of the content
+* [Comparison Between TCP and UDP](https://www.youtube.com/watch?v=uwoD5YsGACg)
+* [TCP/IP Model Explained](https://www.youtube.com/watch?v=OTwp3xtd4dg)
+* [TCP/IP Explained](https://www.youtube.com/watch?v=PpsEaqJV_A0)
+* [What is UDP](https://www.youtube.com/watch?v=5974lCRwe0w)
