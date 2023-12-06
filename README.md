@@ -15,7 +15,7 @@
 
 * Individuals and Hobbyists: This section provides information for people who have a general interest in computer networking and technology, as well as a better grasp of data transfer via the internet.
 
-## individual Pages Below
+## Individual Pages Below
 
 ### TCP:
 Click the [link](TCP.md) here for more info
